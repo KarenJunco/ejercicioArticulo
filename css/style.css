@@ -1,0 +1,28 @@
+.titulo-principal{
+    font-size: 37px;
+    line-height: 46px;
+    font-family: tahoma, Helvetica, sans-serif;
+    color: #000000;
+
+}
+
+.titulo-secundario{
+    font-size: 25px;
+    line-height: 38px;
+    font-family: tahoma, Helvetica, sans-serif ;
+}
+
+body{
+    font-size: 18px;
+    font-family: Verdana, Geneva, sans-serif;
+    width: 900px;
+}
+
+.bajada-de-titulo{
+    color: #666;
+}
+
+p {
+    line-height: 27px;
+    color: #333
+}
